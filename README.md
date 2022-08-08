@@ -21,9 +21,10 @@ Here are some ideas to get you started:
 
 - 📄 Know about my experiences [**Resume**](https://1drv.ms/w/s!AqtIbq4Vkcnfgads1TN3KtmXFny_Dw?e=ED7LVs)
 
-<h3 align="left">Connect with me:
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dacelis0@misena.edu.co)](mailto:abdelrahman.yasser.365@gmail.com)  [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=573008754649&text=Olá!)](https://api.whatsapp.com/send?phone=+201019347297&text=Hi!😀)
-</h3>
+<h3 align="left">Connect with me:</h3>
+
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abdelrahman.yasser.365@gmail.com)](mailto:abdelrahman.yasser.365@gmail.com)  [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=573008754649&text=Olá!)](https://api.whatsapp.com/send?phone=+201019347297&text=Hi!😀)
+
 <p align="left">
 </p>
 
