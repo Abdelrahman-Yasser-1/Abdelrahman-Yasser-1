@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abdelrahman.yasser.365@gmail.com)](mailto:abdelrahman.yasser.365@gmail.com)  [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=573008754649&text=Olá!)](https://api.whatsapp.com/send?phone=+201019347297&text=Hi!😀)
+[![LinkedIn Logo](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdelrahman-yasser-346491197/)](https://www.linkedin.com/in/abdelrahman-yasser-346491197/)   [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abdelrahman.yasser.365@gmail.com)](mailto:abdelrahman.yasser.365@gmail.com)  [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=573008754649&text=Olá!)](https://api.whatsapp.com/send?phone=+201019347297&text=Hi!😀)
 
 <p align="left">
 </p>
