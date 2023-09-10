@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Abdelrahmna Yasser Fathi</h1>
+<h1 align="center">Hi 👋, I'm Abdelrahmna Yasser</h1>
 <h3 align="center">I'm computer science student at Ain Shams University.</h3>
 
 
