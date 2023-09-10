@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Abdelrahmna Yasser</h1>
-<h3 align="center">I'm computer science student at Ain Shams University.</h3>
+<h3 align="center">I'm computer science fresh graduated | Ain Shams University.</h3>
 
 
 - 📄 Know about my experiences [**Resume**](https://1drv.ms/w/s!AqtIbq4Vkcnfgads1TN3KtmXFny_Dw?e=ED7LVs)
