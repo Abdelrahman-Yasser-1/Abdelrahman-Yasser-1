@@ -1,30 +1,35 @@
-<h1 align="center">Hi 👋, I'm Abdelrahmna Yasser</h1>
+<h1 align="center">Hi 👋, I'm Abdelrahmna Yasser Fathy</h1>
 <h3 align="center">Software Engineer</h3>
 
+### 👨🏻‍💻  About Me
 
-📄 Know about my experiences [**Resume**](https://flowcv.com/resume/92tbwssbh8)
+🔭 Know about my experiences [**Resume**](https://flowcv.com/resume/92tbwssbh8)
+
+🌱 I’m currently learning **`React JS`**
+
+⚡ Ask from me anything you want, If I am alive I will answer within seconds
 
 ###
 
-<h2 align="left">Connect with me:</h2>
+<h2 align="left">💬 Connect with me</h2>
 
 ###
 
 <div align="left">
   <a href="mailto:abdelrahman.yasser.365@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/abdelrahman-yasser-346491197/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin logo"  />
   </a>
   <a href="https://api.whatsapp.com/send?phone=+201019347297&text=Hi!😀" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp logo"  />
   </a>
 </div>
 
 ###
 
-<h2 align="left">Languages and Tools:</h2>
+<h2 align="left">🛠️ Languages and Tools</h2>
 
 ###
 
