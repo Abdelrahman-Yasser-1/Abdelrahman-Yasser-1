@@ -86,4 +86,6 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdelrahman-yasser-1&show_icons=true&locale=en" alt="abdelrahman-yasser-1" /></p>
+<h2 align="left">📊 GitHub Stats</h2>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdelrahman-yasser-1&theme=dark&show_icons=true&locale=en" alt="abdelrahman-yasser-1" />
+
