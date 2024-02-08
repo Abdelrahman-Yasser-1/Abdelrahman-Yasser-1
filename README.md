@@ -9,7 +9,7 @@
 
 🔭 Know about my experiences [**Resume**](https://flowcv.com/resume/92tbwssbh8)
 
-🌱 I’m currently learning **`React JS`**
+🌱 I’m currently learning **`React JS` & `React Native`**
 
 ⚡ Ask from me anything you want, If I am alive I will answer within seconds
 
