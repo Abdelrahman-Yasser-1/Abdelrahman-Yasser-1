@@ -7,9 +7,15 @@
 
 ###
 
+💻 2+ years of development experience
+
 🔭 Know about my experiences [**Resume**](https://flowcv.com/resume/92tbwssbh8)
 
-🌱 I’m currently learning **`React JS` & `React Native`**
+🌱 I’m currently mastering **React Ecosystem (`React.js`, `React Native`)**
+
+🚀 Building mobile applications
+
+🧠 Passionate about software architecture and clean code principles
 
 ⚡ Ask from me anything you want, If I am alive I will answer within seconds
 
