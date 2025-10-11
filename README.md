@@ -7,7 +7,7 @@
 
 ###
 
-💻 2+ years of development experience
+💻 3+ years of development experience
 
 🔭 Know about my experiences [**Resume**](https://flowcv.com/resume/92tbwssbh8)
 
