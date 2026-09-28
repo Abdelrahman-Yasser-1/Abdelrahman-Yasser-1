@@ -48,7 +48,7 @@
     <g class="spin">
       <path id="ring" d="M1060 150 m-78 0 a78 78 0 1 1 156 0 a78 78 0 1 1 -156 0" fill="none"/>
       <text class="mono" font-size="11" letter-spacing="2.4" fill="#8a90a0">
-        <textPath href="#ring">MOBILE ✦ SDKS ✦ IOS ✦ ANDROID ✦ REACT NATIVE ✦ </textPath>
+        <textPath href="#ring">MOBILE ✦ REACT NATIVE ✦ TYPESCRIPT ✦ AI ✦ SHIP ✦ CLEAN ✦ </textPath>
       </text>
     </g>
     <circle cx="1060" cy="150" r="44" fill="none" stroke="#262b38"/>
@@ -56,7 +56,7 @@
 
     <!-- Eyebrow -->
     <g class="rise d1">
-      <text x="56" y="76" class="mono" font-size="13" letter-spacing="3" fill="#8a90a0"><tspan fill="#c8ff2e">(00)</tspan>  ———  SOFTWARE ENGINEER · CAIRO, EG</text>
+      <text x="56" y="76" class="mono" font-size="13" letter-spacing="3" fill="#8a90a0"><tspan fill="#c8ff2e">(00)</tspan>  ———  SOFTWARE ENGINEER · EGYPT · OPEN TO RELOCATION</text>
     </g>
 
     <!-- Name -->
@@ -70,12 +70,12 @@
 
     <!-- Availability pill + stack -->
     <g class="rise d4">
-      <rect x="48" y="332" width="360" height="42" rx="21" fill="#11141b" fill-opacity="0.8" stroke="#ffffff" stroke-opacity="0.08"/>
+      <rect x="48" y="332" width="384" height="42" rx="21" fill="#11141b" fill-opacity="0.8" stroke="#ffffff" stroke-opacity="0.08"/>
       <circle class="pulse" cx="70" cy="353" r="5" fill="#c8ff2e"/>
       <circle cx="70" cy="353" r="5" fill="#c8ff2e"/>
-      <text x="88" y="358" class="mono" font-size="13" letter-spacing="1.2" fill="#eef0f4">Open to freelance &amp; full-time roles</text>
+      <text x="88" y="358" class="mono" font-size="13" letter-spacing="1.2" fill="#eef0f4">Available for full-time &amp; freelance</text>
 
-      <text x="1144" y="358" text-anchor="end" class="mono" font-size="13" letter-spacing="2.4" fill="#5b6170">REACT NATIVE · SWIFT · KOTLIN · TYPESCRIPT</text>
+      <text x="1144" y="358" text-anchor="end" class="mono" font-size="13" letter-spacing="2.4" fill="#5b6170">REACT NATIVE · TYPESCRIPT · AI-DRIVEN</text>
     </g>
 
     <rect x="0" y="416" width="1200" height="4" fill="url(#signal)"/>
