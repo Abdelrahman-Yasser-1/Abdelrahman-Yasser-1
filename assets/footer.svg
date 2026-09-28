@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="200" viewBox="0 0 1200 200" role="img" aria-label="Thanks for visiting — Abdelrahman Yasser">
+  <defs><style>
+      .mono { font-family: 'Geist Mono', 'JetBrains Mono', 'SFMono-Regular', Menlo, Consolas, monospace; }
+      .display { font-family: 'Syne', 'Archivo Black', 'Arial Black', 'Helvetica Neue', Arial, sans-serif; font-weight: 800; }
+      .serif { font-family: 'Instrument Serif', 'Playfair Display', Georgia, 'Times New Roman', serif; font-style: italic; }
+      .sans { font-family: 'Geist', -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; }
+      .blink { animation: blink 1s steps(1) infinite; }
+      @keyframes blink { 50% { opacity: 0 } }
+      @media (prefers-reduced-motion: reduce) { .blink { animation: none } }
+    </style>
+    <linearGradient id="signal" x1="0" x2="1"><stop offset="0" stop-color="#c8ff2e"/><stop offset="1" stop-color="#3df5ff"/></linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="1.1" r="0.7"><stop offset="0" stop-color="#c8ff2e" stop-opacity="0.14"/><stop offset="1" stop-color="#c8ff2e" stop-opacity="0"/></radialGradient>
+    <clipPath id="c"><rect width="1200" height="200" rx="20"/></clipPath>
+  </defs>
+  <g clip-path="url(#c)">
+    <rect width="1200" height="200" fill="#06070a"/>
+    <rect width="1200" height="200" fill="url(#glow)"/>
+    <rect width="1200" height="3" fill="url(#signal)"/>
+    <text x="600" y="102" text-anchor="middle" class="display" font-size="64" letter-spacing="-2.5" fill="none" stroke="#eef0f4" stroke-opacity="0.4" stroke-width="1.2">THANKS FOR VISITING</text>
+    <text x="600" y="150" text-anchor="middle" class="mono" font-size="13" letter-spacing="3" fill="#8a90a0">BUILD FAST · BUILD CLEAN · BUILD FOR PRODUCTION<tspan class="blink" fill="#c8ff2e"> _</tspan></text>
+  </g>
+  <rect x="0.5" y="0.5" width="1199" height="199" rx="19.5" fill="none" stroke="#ffffff" stroke-opacity="0.08"/>
+</svg>
