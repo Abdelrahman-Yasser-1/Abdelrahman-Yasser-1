@@ -1,160 +1,123 @@
 <!--
-  Identity — "Signal" (mirrors abdelrahman-yasser.vercel.app)
+  Identity — "Signal" (mirrors https://abdelrahman-yasser.vercel.app/)
   void #06070a · abyss #0b0d12 · carbon #11141b · seam #262b38
-  bone #eef0f4 · fog #8a90a0 · mist #5b6170
-  volt #c8ff2e · ion #3df5ff · flare #ff4d6d
-  Custom artwork lives in ./assets
+  bone #eef0f4 · fog #8a90a0 · mist #5b6170 · volt #c8ff2e · ion #3df5ff
+  Artwork: ./assets (desktop, 1200px) and ./assets/mobile (phones, 600px),
+  switched with <picture> at 700px.
 -->
 
 <div align="center">
-  <a href="https://abdelrahman-yasser.vercel.app/">
-    <img src="./assets/header.svg" width="100%" alt="Abdelrahman Yasser — Software Engineer"/>
-  </a>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=500&size=20&duration=3000&pause=800&color=C8FF2E&center=true&vCenter=true&width=820&lines=Building+scalable+mobile+apps;Crafting+maintainable+frontend+architectures;Leveraging+AI+for+engineering+productivity;Always+learning+%C2%B7+Always+shipping" alt="Building scalable mobile apps · Crafting maintainable frontend architectures · Leveraging AI for engineering productivity · Always learning, always shipping"/>
+<a href="https://abdelrahman-yasser.vercel.app/">
+<picture>
+  <source media="(max-width: 700px)" srcset="./assets/mobile/header.svg"/>
+  <img src="./assets/header.svg" width="100%" alt="Abdelrahman Yasser — Software Engineer · Egypt · Open to relocation · Available for full-time & freelance"/>
+</picture>
+</a>
 
-  <p>
-    <a href="mailto:abdelrahman.yasser.365@gmail.com"><img src="https://img.shields.io/badge/Hire_me-Email_now-c8ff2e?style=for-the-badge&labelColor=11141b&logo=gmail&logoColor=c8ff2e" alt="Hire me — email"/></a>
-    <a href="https://wa.me/201019347297?text=Hi!%20Let's%20collaborate!"><img src="https://img.shields.io/badge/WhatsApp-Chat-c8ff2e?style=for-the-badge&labelColor=11141b&logo=whatsapp&logoColor=c8ff2e" alt="WhatsApp"/></a>
-    <a href="https://flowcv.com/resume/92tbwssbh8"><img src="https://img.shields.io/badge/Resume-Download-3df5ff?style=for-the-badge&labelColor=11141b&logo=readdotcv&logoColor=3df5ff" alt="Resume"/></a>
-    <a href="https://abdelrahman-yasser.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-View_site_↗-eef0f4?style=for-the-badge&labelColor=11141b&logo=vercel&logoColor=eef0f4" alt="Portfolio"/></a>
-    <a href="https://www.linkedin.com/in/abdelrahman-yasser-346491197/"><img src="https://img.shields.io/badge/LinkedIn-Connect-eef0f4?style=for-the-badge&labelColor=11141b&logo=linkedin&logoColor=eef0f4" alt="LinkedIn"/></a>
-  </p>
+<picture>
+  <source media="(max-width: 700px)" srcset="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=500&duration=3000&pause=800&color=C8FF2E&center=true&vCenter=true&lines=Building+scalable+mobile+apps;Crafting+maintainable+frontend+architectures;Leveraging+AI+for+engineering+productivity;Always+learning+%C2%B7+Always+shipping&size=15&width=420"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=500&duration=3000&pause=800&color=C8FF2E&center=true&vCenter=true&lines=Building+scalable+mobile+apps;Crafting+maintainable+frontend+architectures;Leveraging+AI+for+engineering+productivity;Always+learning+%C2%B7+Always+shipping&size=20&width=820" alt="Building scalable mobile apps · Crafting maintainable frontend architectures · Leveraging AI for engineering productivity · Always learning, always shipping"/>
+</picture>
 
-  <p>
-    <a href="#about"><img src="https://img.shields.io/badge/01-About-11141b?style=flat-square&labelColor=06070a" alt="About"/></a>
-    <a href="#expertise"><img src="https://img.shields.io/badge/02-Expertise-11141b?style=flat-square&labelColor=06070a" alt="Expertise"/></a>
-    <a href="#toolkit"><img src="https://img.shields.io/badge/03-Stack-11141b?style=flat-square&labelColor=06070a" alt="Stack"/></a>
-    <a href="#activity"><img src="https://img.shields.io/badge/04-Activity-11141b?style=flat-square&labelColor=06070a" alt="Activity"/></a>
-    <a href="#contact"><img src="https://img.shields.io/badge/05-Contact-c8ff2e?style=flat-square&labelColor=06070a" alt="Contact"/></a>
-  </p>
+<a href="mailto:abdelrahman.yasser.365@gmail.com"><img src="https://img.shields.io/badge/Email-c8ff2e?style=for-the-badge&logo=gmail&logoColor=06070a" alt="Email"/></a>
+<a href="https://wa.me/201019347297?text=Hi!%20Let's%20collaborate!"><img src="https://img.shields.io/badge/WhatsApp-11141b?style=for-the-badge&logo=whatsapp&logoColor=c8ff2e" alt="WhatsApp"/></a>
+<a href="https://www.linkedin.com/in/abdelrahman-yasser-346491197/"><img src="https://img.shields.io/badge/LinkedIn-11141b?style=for-the-badge&logo=linkedin&logoColor=c8ff2e" alt="LinkedIn"/></a>
+<a href="https://abdelrahman-yasser.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-11141b?style=for-the-badge&logo=vercel&logoColor=c8ff2e" alt="Portfolio"/></a>
+<a href="https://flowcv.com/resume/92tbwssbh8"><img src="https://img.shields.io/badge/Resume-11141b?style=for-the-badge&logo=readdotcv&logoColor=c8ff2e" alt="Resume"/></a>
 
-  <p>
-    <a href="https://komarev.com/ghpvc/?username=abdelrahman-yasser-1"><img src="https://komarev.com/ghpvc/?username=abdelrahman-yasser-1&label=PROFILE+VIEWS&color=11141b&labelColor=06070a&style=flat-square" alt="Profile views"/></a>
-    <a href="https://github.com/abdelrahman-yasser-1?tab=followers"><img src="https://img.shields.io/github/followers/abdelrahman-yasser-1?style=flat-square&label=FOLLOWERS&color=11141b&labelColor=06070a&logo=github&logoColor=c8ff2e" alt="Followers"/></a>
-    <a href="https://github.com/abdelrahman-yasser-1"><img src="https://img.shields.io/github/stars/abdelrahman-yasser-1?affiliations=OWNER%2CCOLLABORATOR&style=flat-square&label=STARS&color=11141b&labelColor=06070a&logo=github&logoColor=3df5ff" alt="Stars"/></a>
-  </p>
+<a href="https://komarev.com/ghpvc/?username=abdelrahman-yasser-1"><img src="https://komarev.com/ghpvc/?username=abdelrahman-yasser-1&label=PROFILE+VIEWS&color=11141b&labelColor=06070a&style=flat-square" alt="Profile views"/></a>
+<a href="https://github.com/abdelrahman-yasser-1?tab=followers"><img src="https://img.shields.io/github/followers/abdelrahman-yasser-1?style=flat-square&label=FOLLOWERS&color=11141b&labelColor=06070a&logo=github&logoColor=c8ff2e" alt="Followers"/></a>
+<a href="https://github.com/abdelrahman-yasser-1"><img src="https://img.shields.io/github/stars/abdelrahman-yasser-1?affiliations=OWNER%2CCOLLABORATOR&style=flat-square&label=STARS&color=11141b&labelColor=06070a&logo=github&logoColor=3df5ff" alt="Stars"/></a>
 
+<picture>
+  <source media="(max-width: 700px)" srcset="./assets/mobile/marquee.svg"/>
   <img src="./assets/marquee.svg" width="100%" alt="Software Engineer · React Native Specialist · AI-Driven Builder · Always Learning · Always Shipping"/>
-</div>
-
-<br/>
+</picture>
 
 <a id="about"></a>
-<img src="./assets/section-about.svg" width="100%" alt="(01) About — The engineer"/>
 
-<img src="./assets/about.svg" width="100%" alt="Name: Abdelrahman Yasser Fathy · Role: Software Engineer · Specialization: React Native Mobile Engineering · Location: Egypt, open to relocation · Experience: 3+ years professional · Philosophy: Build Fast, Build Clean, Build for Production"/>
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <code>WHAT I BRING</code>
-      <ul>
-        <li>Ships production-ready mobile apps at scale</li>
-        <li>Writes clean, typed, testable code</li>
-        <li>Bridges AI tooling into real engineering workflows</li>
-        <li>Collaborates across design, product &amp; backend teams</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <code>GROWING IN</code>
-      <ul>
-        <li>Enterprise architecture</li>
-        <li>Native modules &amp; the bridge</li>
-        <li>Performance optimization</li>
-        <li>AI agents &amp; workflows</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-<br/>
+<picture>
+  <source media="(max-width: 700px)" srcset="./assets/mobile/about.svg"/>
+  <img src="./assets/about.svg" width="100%" alt="About — Abdelrahman Yasser Fathy, Software Engineer specialising in React Native mobile engineering. Egypt, open to relocation. 3+ years professional. Philosophy: Build Fast, Build Clean, Build for Production. What I bring: ships production-ready mobile apps at scale; writes clean, typed, testable code; bridges AI tooling into real engineering workflows; collaborates across design, product and backend teams. Growing in: enterprise architecture; native modules and the bridge; performance optimization; AI agents and workflows."/>
+</picture>
 
 <a id="expertise"></a>
-<img src="./assets/section-expertise.svg" width="100%" alt="(02) Core expertise — What I deliver"/>
 
-<img src="./assets/expertise.svg" width="100%" alt="React Native production apps · TypeScript at scale · State management: Redux, Zustand, Context · API integration: GraphQL, REST, Firebase · Testing: Jest, Detox, RTL · CI/CD: Fastlane, GitHub Actions"/>
-
-<br/><br/>
+<picture>
+  <source media="(max-width: 700px)" srcset="./assets/mobile/expertise.svg"/>
+  <img src="./assets/expertise.svg" width="100%" alt="Core expertise — React Native production apps; TypeScript at scale; state management with Redux, Zustand and Context; API integration with GraphQL, REST and Firebase; testing with Jest, Detox and RTL; CI/CD with Fastlane and GitHub Actions"/>
+</picture>
 
 <a id="toolkit"></a>
-<img src="./assets/section-toolkit.svg" width="100%" alt="(03) Tech arsenal — The toolkit"/>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,redux,ts,js,jest,graphql,npm,yarn,firebase,postman,docker,git,github,azure,figma,tailwind,bootstrap,html,css,vercel,netlify,sqlite,java,gradle,py,r,c,cs,cpp,selenium&perline=15&theme=dark" alt="React, Redux, TypeScript, JavaScript, Jest, GraphQL, npm, Yarn, Firebase, Postman, Docker, Git, GitHub, Azure, Figma, Tailwind, Bootstrap, HTML, CSS, Vercel, Netlify, SQLite, Java, Gradle, Python, R, C, C#, C++, Selenium"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Expo-11141b?style=flat-square&logo=expo&logoColor=c8ff2e" alt="Expo"/>
-  <img src="https://img.shields.io/badge/React_Navigation-11141b?style=flat-square&logo=react&logoColor=c8ff2e" alt="React Navigation"/>
-  <img src="https://img.shields.io/badge/Zustand-11141b?style=flat-square&logo=react&logoColor=c8ff2e" alt="Zustand"/>
-  <img src="https://img.shields.io/badge/TanStack_Query-11141b?style=flat-square&logo=reactquery&logoColor=3df5ff" alt="TanStack Query"/>
-  <img src="https://img.shields.io/badge/React_Hook_Form-11141b?style=flat-square&logo=reacthookform&logoColor=3df5ff" alt="React Hook Form"/>
-  <img src="https://img.shields.io/badge/Zod-11141b?style=flat-square&logo=zod&logoColor=3df5ff" alt="Zod"/>
-  <img src="https://img.shields.io/badge/Storybook-11141b?style=flat-square&logo=storybook&logoColor=c8ff2e" alt="Storybook"/>
-  <img src="https://img.shields.io/badge/Fastlane-11141b?style=flat-square&logo=fastlane&logoColor=c8ff2e" alt="Fastlane"/>
-</p>
-
-<br/>
+<picture>
+  <source media="(max-width: 700px)" srcset="./assets/mobile/toolkit.svg"/>
+  <img src="./assets/toolkit.svg" width="100%" alt="Tech arsenal — Mobile and UI: React Native, Expo, React Navigation, React, Tailwind CSS, Bootstrap, HTML, CSS, Figma. Languages: TypeScript, JavaScript, Java, Python, C, C++, C#, R. State and data: Redux, Zustand, TanStack Query, React Hook Form, Zod, GraphQL, Firebase, SQLite, Postman. Testing: Jest, Selenium, Storybook. Delivery: Git, GitHub, Docker, Azure, Fastlane, Gradle, npm, Yarn, Vercel, Netlify"/>
+</picture>
 
 <a id="activity"></a>
-<img src="./assets/section-activity.svg" width="100%" alt="(04) Signal — GitHub activity"/>
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=abdelrahman-yasser-1&show_icons=true&include_all_commits=true&hide_border=false&border_color=262b38&bg_color=0b0d12&title_color=c8ff2e&icon_color=3df5ff&text_color=eef0f4&ring_color=c8ff2e&border_radius=18" alt="GitHub stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=abdelrahman-yasser-1&hide_border=false&border=262b38&background=0b0d12&stroke=262b38&ring=c8ff2e&fire=3df5ff&currStreakNum=eef0f4&sideNums=eef0f4&currStreakLabel=c8ff2e&sideLabels=8a90a0&dates=5b6170&border_radius=18" alt="GitHub streak"/>
-</p>
+<picture>
+  <source media="(max-width: 700px)" srcset="./assets/mobile/activity.svg"/>
+  <img src="./assets/activity.svg" width="100%" alt="GitHub activity"/>
+</picture>
 
-<br/>
+<img width="410" src="https://github-readme-stats.vercel.app/api?username=abdelrahman-yasser-1&show_icons=true&include_all_commits=true&hide_border=false&border_color=262b38&bg_color=0b0d12&title_color=c8ff2e&icon_color=3df5ff&text_color=eef0f4&ring_color=c8ff2e&border_radius=18" alt="GitHub stats"/>
+<img width="410" src="https://github-readme-streak-stats.herokuapp.com/?user=abdelrahman-yasser-1&hide_border=false&border=262b38&background=0b0d12&stroke=262b38&ring=c8ff2e&fire=3df5ff&currStreakNum=eef0f4&sideNums=eef0f4&currStreakLabel=c8ff2e&sideLabels=8a90a0&dates=5b6170&border_radius=18" alt="GitHub streak"/>
 
 <a id="contact"></a>
-<img src="./assets/section-contact.svg" width="100%" alt="(05) Contact — Let's build together"/>
 
-<div align="center">
-<table>
-  <tr>
-    <td><img src="https://img.shields.io/badge/-11141b?style=flat-square&logo=gmail&logoColor=c8ff2e" alt=""/> <code>EMAIL</code></td>
-    <td><a href="mailto:abdelrahman.yasser.365@gmail.com"><b>abdelrahman.yasser.365@gmail.com</b></a></td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/-11141b?style=flat-square&logo=phonepe&logoColor=c8ff2e" alt=""/> <code>PHONE</code></td>
-    <td><b>+20 101 934 7297</b></td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/-11141b?style=flat-square&logo=whatsapp&logoColor=c8ff2e" alt=""/> <code>WHATSAPP</code></td>
-    <td><a href="https://wa.me/201019347297?text=Hi!%20Let's%20collaborate!"><b>wa.me/201019347297</b></a> ↗</td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/-11141b?style=flat-square&logo=linkedin&logoColor=c8ff2e" alt=""/> <code>LINKEDIN</code></td>
-    <td><a href="https://www.linkedin.com/in/abdelrahman-yasser-346491197/"><b>linkedin.com/in/abdelrahman-yasser-346491197</b></a> ↗</td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/-11141b?style=flat-square&logo=vercel&logoColor=c8ff2e" alt=""/> <code>PORTFOLIO</code></td>
-    <td><a href="https://abdelrahman-yasser.vercel.app/"><b>abdelrahman-yasser.vercel.app</b></a> ↗</td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/-11141b?style=flat-square&logo=readdotcv&logoColor=c8ff2e" alt=""/> <code>RESUME</code></td>
-    <td><a href="https://flowcv.com/resume/92tbwssbh8"><b>flowcv.com/resume/92tbwssbh8</b></a> ↗</td>
-  </tr>
-</table>
-</div>
+<picture>
+  <source media="(max-width: 700px)" srcset="./assets/mobile/contact.svg"/>
+  <img src="./assets/contact.svg" width="100%" alt="Contact — Let's build together. Open to full-time and freelance roles. Notice period 2 months. Egyptian citizen. Open to relocation."/>
+</picture>
 
-<p align="center">
-  <a href="mailto:abdelrahman.yasser.365@gmail.com"><img src="https://img.shields.io/badge/Email-c8ff2e?style=for-the-badge&logo=gmail&logoColor=06070a" alt="Email"/></a>
-  <a href="https://wa.me/201019347297?text=Hi!%20Let's%20collaborate!"><img src="https://img.shields.io/badge/WhatsApp-11141b?style=for-the-badge&logo=whatsapp&logoColor=eef0f4" alt="WhatsApp"/></a>
-  <a href="https://www.linkedin.com/in/abdelrahman-yasser-346491197/"><img src="https://img.shields.io/badge/LinkedIn-11141b?style=for-the-badge&logo=linkedin&logoColor=eef0f4" alt="LinkedIn"/></a>
-  <a href="https://abdelrahman-yasser.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-11141b?style=for-the-badge&logo=vercel&logoColor=eef0f4" alt="Portfolio"/></a>
-  <a href="https://flowcv.com/resume/92tbwssbh8"><img src="https://img.shields.io/badge/Resume-11141b?style=for-the-badge&logo=readdotcv&logoColor=eef0f4" alt="Resume"/></a>
-</p>
+<a href="mailto:abdelrahman.yasser.365@gmail.com">
+<picture>
+  <source media="(max-width: 700px)" srcset="./assets/mobile/contact-email.svg"/>
+  <img src="./assets/contact-email.svg" width="100%" alt="Email: abdelrahman.yasser.365@gmail.com"/>
+</picture>
+</a>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/●_Available_for-Full--time_&_Freelance-c8ff2e?style=flat-square&labelColor=11141b" alt="Available for full-time and freelance"/>
-  <img src="https://img.shields.io/badge/Notice_period-2_months-3df5ff?style=flat-square&labelColor=11141b" alt="Notice period: 2 months"/>
-  <img src="https://img.shields.io/badge/Citizenship-Egyptian-eef0f4?style=flat-square&labelColor=11141b" alt="Citizenship: Egyptian"/>
-</p>
+<a href="https://wa.me/201019347297?text=Hi!%20Let's%20collaborate!">
+<picture>
+  <source media="(max-width: 700px)" srcset="./assets/mobile/contact-phone.svg"/>
+  <img src="./assets/contact-phone.svg" width="100%" alt="Phone: +20 101 934 7297"/>
+</picture>
+</a>
 
-<br/>
+<a href="https://wa.me/201019347297?text=Hi!%20Let's%20collaborate!">
+<picture>
+  <source media="(max-width: 700px)" srcset="./assets/mobile/contact-whatsapp.svg"/>
+  <img src="./assets/contact-whatsapp.svg" width="100%" alt="WhatsApp: wa.me/201019347297"/>
+</picture>
+</a>
 
-<div align="center">
+<a href="https://www.linkedin.com/in/abdelrahman-yasser-346491197/">
+<picture>
+  <source media="(max-width: 700px)" srcset="./assets/mobile/contact-linkedin.svg"/>
+  <img src="./assets/contact-linkedin.svg" width="100%" alt="LinkedIn: linkedin.com/in/abdelrahman-yasser-346491197"/>
+</picture>
+</a>
+
+<a href="https://abdelrahman-yasser.vercel.app/">
+<picture>
+  <source media="(max-width: 700px)" srcset="./assets/mobile/contact-portfolio.svg"/>
+  <img src="./assets/contact-portfolio.svg" width="100%" alt="Portfolio: abdelrahman-yasser.vercel.app"/>
+</picture>
+</a>
+
+<a href="https://flowcv.com/resume/92tbwssbh8">
+<picture>
+  <source media="(max-width: 700px)" srcset="./assets/mobile/contact-resume.svg"/>
+  <img src="./assets/contact-resume.svg" width="100%" alt="Resume: flowcv.com/resume/92tbwssbh8"/>
+</picture>
+</a>
+
+<picture>
+  <source media="(max-width: 700px)" srcset="./assets/mobile/footer.svg"/>
   <img src="./assets/footer.svg" width="100%" alt="Thanks for visiting"/>
+</picture>
+
 </div>

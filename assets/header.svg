@@ -48,7 +48,7 @@
     <g class="spin">
       <path id="ring" d="M1060 150 m-78 0 a78 78 0 1 1 156 0 a78 78 0 1 1 -156 0" fill="none"/>
       <text class="mono" font-size="11" letter-spacing="2.4" fill="#8a90a0">
-        <textPath href="#ring">MOBILE ✦ REACT NATIVE ✦ TYPESCRIPT ✦ AI ✦ SHIP ✦ CLEAN ✦ </textPath>
+        <textPath href="#ring">MOBILE ✦ REACT NATIVE ✦ TYPESCRIPT ✦ AI ✦ SHIP ✦ </textPath>
       </text>
     </g>
     <circle cx="1060" cy="150" r="44" fill="none" stroke="#262b38"/>
