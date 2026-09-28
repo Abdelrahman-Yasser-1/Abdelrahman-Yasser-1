@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="150" viewBox="0 0 1200 150" role="img" aria-label="Where I&#x27;ve shipped">
+  <defs><style>
+      .mono { font-family: 'Geist Mono', 'JetBrains Mono', 'SFMono-Regular', Menlo, Consolas, monospace; }
+      .display { font-family: 'Syne', 'Archivo Black', 'Arial Black', 'Helvetica Neue', Arial, sans-serif; font-weight: 800; }
+      .serif { font-family: 'Instrument Serif', 'Playfair Display', Georgia, 'Times New Roman', serif; font-style: italic; }
+      .sans { font-family: 'Geist', -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; }
+      .rise { animation: rise 1s cubic-bezier(0.16,1,0.3,1) both; }
+      .d2 { animation-delay: .15s }
+      @keyframes rise { from { opacity: 0; transform: translateY(16px) } to { opacity: 1; transform: none } }
+      .draw { stroke-dasharray: 32; animation: draw .9s .1s cubic-bezier(0.16,1,0.3,1) both; }
+      @keyframes draw { from { stroke-dashoffset: 32 } to { stroke-dashoffset: 0 } }
+      @media (prefers-reduced-motion: reduce) { .rise { opacity: 1; animation: none } .draw { stroke-dashoffset: 0; animation: none } }
+  </style></defs>
+  <g class="rise">
+    <text x="4" y="40" class="mono" font-size="13" letter-spacing="3.2" fill="#c8ff2e">(03)</text>
+    <line class="draw" x1="52" y1="35.5" x2="84" y2="35.5" stroke="#ffffff" stroke-opacity="0.2"/>
+    <text x="96" y="40" class="mono" font-size="13" letter-spacing="3.2" fill="#8a90a0">EXPERIENCE</text>
+  </g>
+  <g class="rise d2">
+    <text x="0" y="112" class="display" font-size="56" letter-spacing="-2" fill="#eef0f4">WHERE I&#x27;VE<tspan class="serif" font-size="58" font-weight="400" letter-spacing="0" fill="#c8ff2e"> shipped</tspan></text>
+  </g>
+  <line x1="0" y1="146.5" x2="1200" y2="146.5" stroke="#ffffff" stroke-opacity="0.08"/>
+</svg>

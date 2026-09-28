@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="170" viewBox="0 0 1200 170" role="img" aria-label="3+ years shipping mobile; 4 enterprise SDKs delivered; 20K+ lines migrated to TypeScript; 70% test coverage on government apps">
+  <defs><style>
+      .mono { font-family: 'Geist Mono', 'JetBrains Mono', 'SFMono-Regular', Menlo, Consolas, monospace; }
+      .display { font-family: 'Syne', 'Archivo Black', 'Arial Black', 'Helvetica Neue', Arial, sans-serif; font-weight: 800; }
+      .serif { font-family: 'Instrument Serif', 'Playfair Display', Georgia, 'Times New Roman', serif; font-style: italic; }
+      .sans { font-family: 'Geist', -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; }
+      .rise { animation: rise 1s cubic-bezier(0.16,1,0.3,1) both; }
+      @keyframes rise { from { opacity: 0; transform: translateY(14px) } to { opacity: 1; transform: none } }
+      @media (prefers-reduced-motion: reduce) { .rise { opacity: 1; animation: none } }
+  </style></defs>
+  <rect width="1200" height="170" rx="18" fill="#0b0d12"/>
+  <rect x="0.5" y="0.5" width="1199" height="169" rx="17.5" fill="none" stroke="#ffffff" stroke-opacity="0.08"/>
+  <g class="rise" style="animation-delay:0.00s">
+    <text x="28" y="40" class="mono" font-size="11" letter-spacing="2.6" fill="#5b6170">01</text>
+    <text x="24" y="108" class="display" font-size="64" letter-spacing="-3" fill="#c8ff2e">3+</text>
+    <text x="28" y="142" class="mono" font-size="12" letter-spacing="1.6" fill="#8a90a0">YEARS SHIPPING MOBILE</text>
+  </g>
+  <line x1="300.5" y1="24" x2="300.5" y2="146" stroke="#ffffff" stroke-opacity="0.08"/>
+<g class="rise" style="animation-delay:0.12s">
+    <text x="328" y="40" class="mono" font-size="11" letter-spacing="2.6" fill="#5b6170">02</text>
+    <text x="324" y="108" class="display" font-size="64" letter-spacing="-3" fill="#eef0f4">4</text>
+    <text x="328" y="142" class="mono" font-size="12" letter-spacing="1.6" fill="#8a90a0">ENTERPRISE SDKS DELIVERED</text>
+  </g>
+  <line x1="600.5" y1="24" x2="600.5" y2="146" stroke="#ffffff" stroke-opacity="0.08"/>
+<g class="rise" style="animation-delay:0.24s">
+    <text x="628" y="40" class="mono" font-size="11" letter-spacing="2.6" fill="#5b6170">03</text>
+    <text x="624" y="108" class="display" font-size="64" letter-spacing="-3" fill="#eef0f4">20K+</text>
+    <text x="628" y="142" class="mono" font-size="12" letter-spacing="1.6" fill="#8a90a0">LINES MIGRATED TO TYPESCRIPT</text>
+  </g>
+  <line x1="900.5" y1="24" x2="900.5" y2="146" stroke="#ffffff" stroke-opacity="0.08"/>
+<g class="rise" style="animation-delay:0.36s">
+    <text x="928" y="40" class="mono" font-size="11" letter-spacing="2.6" fill="#5b6170">04</text>
+    <text x="924" y="108" class="display" font-size="64" letter-spacing="-3" fill="#eef0f4">70%</text>
+    <text x="928" y="142" class="mono" font-size="12" letter-spacing="1.6" fill="#8a90a0">TEST COVERAGE ON GOV APPS</text>
+  </g>
+</svg>

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="80" viewBox="0 0 1200 80" role="img" aria-label="Mobile Engineer, Software Engineer, React Native &amp; SDK Architect, iOS &amp; Android Builder">
+  <defs><style>
+      .mono { font-family: 'Geist Mono', 'JetBrains Mono', 'SFMono-Regular', Menlo, Consolas, monospace; }
+      .display { font-family: 'Syne', 'Archivo Black', 'Arial Black', 'Helvetica Neue', Arial, sans-serif; font-weight: 800; }
+      .serif { font-family: 'Instrument Serif', 'Playfair Display', Georgia, 'Times New Roman', serif; font-style: italic; }
+      .sans { font-family: 'Geist', -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; }
+      .track { animation: marquee 30s linear infinite; }
+      @keyframes marquee { to { transform: translateX(-2600px) } }
+      @media (prefers-reduced-motion: reduce) { .track { animation: none } }
+    </style>
+    <linearGradient id="fade" x1="0" x2="1">
+      <stop offset="0" stop-color="#06070a"/><stop offset="0.08" stop-color="#06070a" stop-opacity="0"/>
+      <stop offset="0.92" stop-color="#06070a" stop-opacity="0"/><stop offset="1" stop-color="#06070a"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="80" rx="14" fill="#06070a"/>
+  <g class="track">
+    <text x="0" y="54" class="display" font-size="40" letter-spacing="-1" fill="#eef0f4" textLength="2600" lengthAdjust="spacing">MOBILE ENGINEER<tspan fill="#c8ff2e" font-size="26">   ✦   </tspan>SOFTWARE ENGINEER<tspan fill="#c8ff2e" font-size="26">   ✦   </tspan>REACT NATIVE &amp; SDK ARCHITECT<tspan fill="#c8ff2e" font-size="26">   ✦   </tspan>IOS &amp; ANDROID BUILDER<tspan fill="#c8ff2e" font-size="26">   ✦   </tspan>AI-DRIVEN WORKFLOW<tspan fill="#c8ff2e" font-size="26">   ✦   </tspan></text>
+    <text x="2600" y="54" class="display" font-size="40" letter-spacing="-1" fill="#eef0f4" textLength="2600" lengthAdjust="spacing">MOBILE ENGINEER<tspan fill="#c8ff2e" font-size="26">   ✦   </tspan>SOFTWARE ENGINEER<tspan fill="#c8ff2e" font-size="26">   ✦   </tspan>REACT NATIVE &amp; SDK ARCHITECT<tspan fill="#c8ff2e" font-size="26">   ✦   </tspan>IOS &amp; ANDROID BUILDER<tspan fill="#c8ff2e" font-size="26">   ✦   </tspan>AI-DRIVEN WORKFLOW<tspan fill="#c8ff2e" font-size="26">   ✦   </tspan></text>
+  </g>
+  <rect width="1200" height="80" rx="14" fill="url(#fade)"/>
+  <rect x="0.5" y="0.5" width="1199" height="79" rx="13.5" fill="none" stroke="#ffffff" stroke-opacity="0.08"/>
+</svg>
