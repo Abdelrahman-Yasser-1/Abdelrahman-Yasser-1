@@ -15,6 +15,7 @@
 
   <p>
     <a href="mailto:abdelrahman.yasser.365@gmail.com"><img src="https://img.shields.io/badge/Hire_me-Email_now-c8ff2e?style=for-the-badge&labelColor=11141b&logo=gmail&logoColor=c8ff2e" alt="Hire me — email"/></a>
+    <a href="https://wa.me/201019347297?text=Hi!%20Let's%20collaborate!"><img src="https://img.shields.io/badge/WhatsApp-Chat-c8ff2e?style=for-the-badge&labelColor=11141b&logo=whatsapp&logoColor=c8ff2e" alt="WhatsApp"/></a>
     <a href="https://flowcv.com/resume/92tbwssbh8"><img src="https://img.shields.io/badge/Resume-Download-3df5ff?style=for-the-badge&labelColor=11141b&logo=readdotcv&logoColor=3df5ff" alt="Resume"/></a>
     <a href="https://abdelrahman-yasser.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-View_site_↗-eef0f4?style=for-the-badge&labelColor=11141b&logo=vercel&logoColor=eef0f4" alt="Portfolio"/></a>
     <a href="https://www.linkedin.com/in/abdelrahman-yasser-346491197/"><img src="https://img.shields.io/badge/LinkedIn-Connect-eef0f4?style=for-the-badge&labelColor=11141b&logo=linkedin&logoColor=eef0f4" alt="LinkedIn"/></a>
@@ -109,12 +110,39 @@
 <a id="contact"></a>
 <img src="./assets/section-contact.svg" width="100%" alt="(05) Contact — Let's build together"/>
 
+<div align="center">
+<table>
+  <tr>
+    <td><img src="https://img.shields.io/badge/-11141b?style=flat-square&logo=gmail&logoColor=c8ff2e" alt=""/> <code>EMAIL</code></td>
+    <td><a href="mailto:abdelrahman.yasser.365@gmail.com"><b>abdelrahman.yasser.365@gmail.com</b></a></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/-11141b?style=flat-square&logo=phonepe&logoColor=c8ff2e" alt=""/> <code>PHONE</code></td>
+    <td><b>+20 101 934 7297</b></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/-11141b?style=flat-square&logo=whatsapp&logoColor=c8ff2e" alt=""/> <code>WHATSAPP</code></td>
+    <td><a href="https://wa.me/201019347297?text=Hi!%20Let's%20collaborate!"><b>wa.me/201019347297</b></a> ↗</td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/-11141b?style=flat-square&logo=linkedin&logoColor=c8ff2e" alt=""/> <code>LINKEDIN</code></td>
+    <td><a href="https://www.linkedin.com/in/abdelrahman-yasser-346491197/"><b>linkedin.com/in/abdelrahman-yasser-346491197</b></a> ↗</td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/-11141b?style=flat-square&logo=vercel&logoColor=c8ff2e" alt=""/> <code>PORTFOLIO</code></td>
+    <td><a href="https://abdelrahman-yasser.vercel.app/"><b>abdelrahman-yasser.vercel.app</b></a> ↗</td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/-11141b?style=flat-square&logo=readdotcv&logoColor=c8ff2e" alt=""/> <code>RESUME</code></td>
+    <td><a href="https://flowcv.com/resume/92tbwssbh8"><b>flowcv.com/resume/92tbwssbh8</b></a> ↗</td>
+  </tr>
+</table>
+</div>
+
 <p align="center">
-  <a href="mailto:abdelrahman.yasser.365@gmail.com"><img src="https://img.shields.io/badge/abdelrahman.yasser.365@gmail.com-c8ff2e?style=for-the-badge&logo=gmail&logoColor=06070a" alt="Email"/></a>
-</p>
-<p align="center">
+  <a href="mailto:abdelrahman.yasser.365@gmail.com"><img src="https://img.shields.io/badge/Email-c8ff2e?style=for-the-badge&logo=gmail&logoColor=06070a" alt="Email"/></a>
+  <a href="https://wa.me/201019347297?text=Hi!%20Let's%20collaborate!"><img src="https://img.shields.io/badge/WhatsApp-11141b?style=for-the-badge&logo=whatsapp&logoColor=eef0f4" alt="WhatsApp"/></a>
   <a href="https://www.linkedin.com/in/abdelrahman-yasser-346491197/"><img src="https://img.shields.io/badge/LinkedIn-11141b?style=for-the-badge&logo=linkedin&logoColor=eef0f4" alt="LinkedIn"/></a>
-  <a href="https://api.whatsapp.com/send?phone=201019347297&text=Hi!%20Let's%20collaborate!"><img src="https://img.shields.io/badge/WhatsApp-11141b?style=for-the-badge&logo=whatsapp&logoColor=eef0f4" alt="WhatsApp"/></a>
   <a href="https://abdelrahman-yasser.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-11141b?style=for-the-badge&logo=vercel&logoColor=eef0f4" alt="Portfolio"/></a>
   <a href="https://flowcv.com/resume/92tbwssbh8"><img src="https://img.shields.io/badge/Resume-11141b?style=for-the-badge&logo=readdotcv&logoColor=eef0f4" alt="Resume"/></a>
 </p>
