@@ -1,7 +1,7 @@
 <!--
-  Identity — "Signal" (mirrors https://abdelrahman-yasser.vercel.app/)
-  void #06070a · abyss #0b0d12 · carbon #11141b · seam #262b38
-  bone #eef0f4 · fog #8a90a0 · mist #5b6170 · volt #c8ff2e · ion #3df5ff
+  Identity — "Chrome" (mirrors https://abdelrahman-yasser.vercel.app/)
+  void #070708 · abyss #0c0c0e · carbon #121214 · seam #2a2a2e
+  bone #f2f2f3 · fog #8f8f96 · mist #5d5d63 · silver #e9e9ec · soft silver #b4b4bb
   Artwork: ./assets (desktop, 1200px) and ./assets/mobile (phones, 600px),
   switched with <picture> at 700px.
 -->
@@ -11,35 +11,31 @@
 <a href="https://abdelrahman-yasser.vercel.app/">
 <picture>
   <source media="(max-width: 700px)" srcset="./assets/mobile/header.svg"/>
-  <img src="./assets/header.svg" width="100%" alt="Abdelrahman Yasser — Software Engineer · Egypt · Open to relocation · Available for full-time & freelance"/>
+  <img src="./assets/header.svg" width="100%" alt="Abdelrahman Yasser — Mobile & software engineer building apps, SDKs and the systems behind them. Open to full-time & freelance."/>
 </picture>
 </a>
 
 <picture>
-  <source media="(max-width: 700px)" srcset="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=500&duration=3000&pause=800&color=C8FF2E&center=true&vCenter=true&lines=Building+scalable+mobile+apps;Crafting+maintainable+frontend+architectures;Leveraging+AI+for+engineering+productivity;Always+learning+%C2%B7+Always+shipping&size=15&width=420"/>
-  <img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=500&duration=3000&pause=800&color=C8FF2E&center=true&vCenter=true&lines=Building+scalable+mobile+apps;Crafting+maintainable+frontend+architectures;Leveraging+AI+for+engineering+productivity;Always+learning+%C2%B7+Always+shipping&size=20&width=820" alt="Building scalable mobile apps · Crafting maintainable frontend architectures · Leveraging AI for engineering productivity · Always learning, always shipping"/>
+  <source media="(max-width: 700px)" srcset="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=500&duration=3000&pause=800&color=E9E9EC&center=true&vCenter=true&lines=Building+scalable+mobile+apps;Crafting+maintainable+frontend+architectures;Leveraging+AI+for+engineering+productivity;Always+learning+%C2%B7+Always+shipping&size=15&width=420"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=500&duration=3000&pause=800&color=E9E9EC&center=true&vCenter=true&lines=Building+scalable+mobile+apps;Crafting+maintainable+frontend+architectures;Leveraging+AI+for+engineering+productivity;Always+learning+%C2%B7+Always+shipping&size=20&width=820" alt="Building scalable mobile apps · Crafting maintainable frontend architectures · Leveraging AI for engineering productivity · Always learning, always shipping"/>
 </picture>
 
-<a href="mailto:abdelrahman.yasser.365@gmail.com"><img src="https://img.shields.io/badge/Email-c8ff2e?style=for-the-badge&logo=gmail&logoColor=06070a" alt="Email"/></a>
-<a href="https://wa.me/201019347297?text=Hi!%20Let's%20collaborate!"><img src="https://img.shields.io/badge/WhatsApp-11141b?style=for-the-badge&logo=whatsapp&logoColor=c8ff2e" alt="WhatsApp"/></a>
-<a href="https://www.linkedin.com/in/abdelrahman-yasser-346491197/"><img src="https://img.shields.io/badge/LinkedIn-11141b?style=for-the-badge&logo=linkedin&logoColor=c8ff2e" alt="LinkedIn"/></a>
-<a href="https://abdelrahman-yasser.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-11141b?style=for-the-badge&logo=vercel&logoColor=c8ff2e" alt="Portfolio"/></a>
-<a href="https://flowcv.com/resume/92tbwssbh8"><img src="https://img.shields.io/badge/Resume-11141b?style=for-the-badge&logo=readdotcv&logoColor=c8ff2e" alt="Resume"/></a>
+<a href="mailto:abdelrahman.yasser.365@gmail.com"><img src="https://img.shields.io/badge/Email-e9e9ec?style=for-the-badge&logo=gmail&logoColor=070708" alt="Email"/></a>
+<a href="https://wa.me/201019347297?text=Hi!%20Let's%20collaborate!"><img src="https://img.shields.io/badge/WhatsApp-121214?style=for-the-badge&logo=whatsapp&logoColor=e9e9ec" alt="WhatsApp"/></a>
+<a href="https://www.linkedin.com/in/abdelrahman-yasser-346491197/"><img src="https://img.shields.io/badge/LinkedIn-121214?style=for-the-badge&logo=linkedin&logoColor=e9e9ec" alt="LinkedIn"/></a>
+<a href="https://abdelrahman-yasser.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-121214?style=for-the-badge&logo=vercel&logoColor=e9e9ec" alt="Portfolio"/></a>
+<a href="https://flowcv.com/resume/92tbwssbh8"><img src="https://img.shields.io/badge/Resume-121214?style=for-the-badge&logo=readdotcv&logoColor=e9e9ec" alt="Resume"/></a>
 
-<a href="https://komarev.com/ghpvc/?username=abdelrahman-yasser-1"><img src="https://komarev.com/ghpvc/?username=abdelrahman-yasser-1&label=PROFILE+VIEWS&color=11141b&labelColor=06070a&style=flat-square" alt="Profile views"/></a>
-<a href="https://github.com/abdelrahman-yasser-1?tab=followers"><img src="https://img.shields.io/github/followers/abdelrahman-yasser-1?style=flat-square&label=FOLLOWERS&color=11141b&labelColor=06070a&logo=github&logoColor=c8ff2e" alt="Followers"/></a>
-<a href="https://github.com/abdelrahman-yasser-1"><img src="https://img.shields.io/github/stars/abdelrahman-yasser-1?affiliations=OWNER%2CCOLLABORATOR&style=flat-square&label=STARS&color=11141b&labelColor=06070a&logo=github&logoColor=3df5ff" alt="Stars"/></a>
+<a href="https://komarev.com/ghpvc/?username=abdelrahman-yasser-1"><img src="https://komarev.com/ghpvc/?username=abdelrahman-yasser-1&label=PROFILE+VIEWS&color=121214&labelColor=070708&style=flat-square" alt="Profile views"/></a>
+<a href="https://github.com/abdelrahman-yasser-1?tab=followers"><img src="https://img.shields.io/github/followers/abdelrahman-yasser-1?style=flat-square&label=FOLLOWERS&color=121214&labelColor=070708&logo=github&logoColor=e9e9ec" alt="Followers"/></a>
+<a href="https://github.com/abdelrahman-yasser-1"><img src="https://img.shields.io/github/stars/abdelrahman-yasser-1?affiliations=OWNER%2CCOLLABORATOR&style=flat-square&label=STARS&color=121214&labelColor=070708&logo=github&logoColor=b4b4bb" alt="Stars"/></a>
 
-<picture>
-  <source media="(max-width: 700px)" srcset="./assets/mobile/marquee.svg"/>
-  <img src="./assets/marquee.svg" width="100%" alt="Software Engineer · React Native Specialist · AI-Driven Builder · Always Learning · Always Shipping"/>
-</picture>
 
 <a id="about"></a>
 
 <picture>
   <source media="(max-width: 700px)" srcset="./assets/mobile/about.svg"/>
-  <img src="./assets/about.svg" width="100%" alt="About — Abdelrahman Yasser Fathy, Software Engineer specialising in React Native mobile engineering. Egypt, open to relocation. 3+ years professional. Philosophy: Build Fast, Build Clean, Build for Production. What I bring: ships production-ready mobile apps at scale; writes clean, typed, testable code; bridges AI tooling into real engineering workflows; collaborates across design, product and backend teams. Growing in: enterprise architecture; native modules and the bridge; performance optimization; AI agents and workflows."/>
+  <img src="./assets/about.svg" width="100%" alt="About — Abdelrahman Yasser Fathy, Software Engineer specialising in React Native mobile engineering. Egypt, open to relocation. 3+ years professional. Philosophy: Build Fast, Build Clean, Build for Production. What I bring: ships production-ready mobile apps at scale; writes clean, typed, testable code; bridges AI tooling into real engineering workflows; collaborates across design, product and backend teams. Growing in: enterprise architecture; native modules and the bridge; performance optimisation; AI agents and workflows."/>
 </picture>
 
 <a id="expertise"></a>
@@ -63,8 +59,8 @@
   <img src="./assets/activity.svg" width="100%" alt="GitHub activity"/>
 </picture>
 
-<img width="410" src="https://github-readme-stats.vercel.app/api?username=abdelrahman-yasser-1&show_icons=true&include_all_commits=true&hide_border=false&border_color=262b38&bg_color=0b0d12&title_color=c8ff2e&icon_color=3df5ff&text_color=eef0f4&ring_color=c8ff2e&border_radius=18" alt="GitHub stats"/>
-<img width="410" src="https://github-readme-streak-stats.herokuapp.com/?user=abdelrahman-yasser-1&hide_border=false&border=262b38&background=0b0d12&stroke=262b38&ring=c8ff2e&fire=3df5ff&currStreakNum=eef0f4&sideNums=eef0f4&currStreakLabel=c8ff2e&sideLabels=8a90a0&dates=5b6170&border_radius=18" alt="GitHub streak"/>
+<img width="410" src="https://github-readme-stats.vercel.app/api?username=abdelrahman-yasser-1&show_icons=true&include_all_commits=true&hide_border=false&border_color=2a2a2e&bg_color=0c0c0e&title_color=f2f2f3&icon_color=b4b4bb&text_color=d6d6da&ring_color=e9e9ec&border_radius=18" alt="GitHub stats"/>
+<img width="410" src="https://github-readme-streak-stats.herokuapp.com/?user=abdelrahman-yasser-1&hide_border=false&border=2a2a2e&background=0c0c0e&stroke=2a2a2e&ring=e9e9ec&fire=b4b4bb&currStreakNum=f2f2f3&sideNums=f2f2f3&currStreakLabel=e9e9ec&sideLabels=8f8f96&dates=5d5d63&border_radius=18" alt="GitHub streak"/>
 
 <a id="contact"></a>
 
