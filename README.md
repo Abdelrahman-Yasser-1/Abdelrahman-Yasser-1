@@ -35,7 +35,7 @@
 
 <picture>
   <source media="(max-width: 700px)" srcset="./assets/mobile/about.svg"/>
-  <img src="./assets/about.svg" width="100%" alt="About — Abdelrahman Yasser Fathy, Software Engineer specialising in React Native mobile engineering. Egypt, open to relocation. 3+ years professional. Philosophy: Build Fast, Build Clean, Build for Production. What I bring: ships production-ready mobile apps at scale; writes clean, typed, testable code; bridges AI tooling into real engineering workflows; collaborates across design, product and backend teams. Growing in: enterprise architecture; native modules and the bridge; performance optimization; AI agents and workflows."/>
+  <img src="./assets/about.svg" width="100%" alt="About — Abdelrahman Yasser Fathy, Software Engineer specialising in React Native mobile engineering. Egypt, open to relocation. 3+ years professional. Philosophy: Build Fast, Build Clean, Build for Production. What I bring: ships production-ready mobile apps at scale; writes clean, typed, testable code; bridges AI tooling into real engineering workflows; collaborates across design, product and backend teams. Growing in: enterprise architecture; native modules and the bridge; performance optimisation; AI agents and workflows."/>
 </picture>
 
 <a id="expertise"></a>
